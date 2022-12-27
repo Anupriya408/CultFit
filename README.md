@@ -29,4 +29,4 @@ TEAM CULT-FIT
 About
 A web app that could help users to buy fitness-related accessories and subscribe to the content provided at the cult.fit online store.
 
-  NETLIFY:- stupendous-chebakia-31e667.netlify.app/
+  NETLIFY:- https://stupendous-chebakia-31e667.netlify.app/
